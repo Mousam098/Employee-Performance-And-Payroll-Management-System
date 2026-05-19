@@ -87,7 +87,7 @@ This project simulates a real-world HR analytics task. The goal was to:
 
 ## 📸 Preview
 
-![Dashboard Preview](WhatsApp Image 2026-05-19 at 12.55.09 PM.jpeg)
+![Dashboard Preview](Dashboard.jpeg)
 
 ---
 
