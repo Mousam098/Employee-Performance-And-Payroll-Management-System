@@ -87,8 +87,7 @@ This project simulates a real-world HR analytics task. The goal was to:
 
 ## 📸 Preview
 
-> *(Add a screenshot of your dashboard here)*
-> `Dashboard Screenshot → Insert image here`
+![Dashboard Preview](WhatsApp Image 2026-05-19 at 12.55.09 PM.jpeg)
 
 ---
 
