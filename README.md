@@ -3,11 +3,10 @@
 ## 🎯 Project Objective
 
 This project simulates a real-world HR analytics task. The goal was to:
-
-- Identify and fix data quality issues in a raw employee dataset
-- Build calculated fields for bonus and total compensation
-- Use Pivot Tables to extract department and performance insights
-- Design a professional dashboard for management decision-making
+Identify and fix data quality issues in a raw employee dataset
+Build calculated fields for bonus and total compensation
+Use Pivot Tables to extract department and performance insights
+Design a professional dashboard for management decision-making
 
 ---
 
